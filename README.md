@@ -3,8 +3,10 @@
 - `git init`: create git repository in current folder
 - `git add`: to save the changes in staging area
 - `git commit`: to save the changes in git repo
+	-`git commit -m "<Message> `: oneline commit message without nano
 - `git status`: to get the latest status of the changes
 
 - `git log`: show you your log history
 	- `git log --oneline`: one line version of your history
 
+- `git diff`: to show difference in the file been edited
